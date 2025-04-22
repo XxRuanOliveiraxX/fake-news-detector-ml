@@ -1,4 +1,4 @@
-# 📰 Fake News Detector with Machine Learning
+# 📰 Detector de Fake News com Machine Learning
 
 Este projeto tem como objetivo desenvolver um modelo de Machine Learning capaz de identificar notícias falsas com base em seu conteúdo textual. Ele utiliza técnicas de **Processamento de Linguagem Natural (NLP)** aplicadas em um conjunto de dados real com notícias verdadeiras e falsas.
 
