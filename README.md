@@ -58,7 +58,9 @@ O dataset utilizado está disponível publicamente no Kaggle:
 ## ✅ Resultados
 
 - Modelo: **Logistic Regression**
-- Acurácia: **99%**  
+- Acurácia: **99%**
+- Modelo: **Random Forest**
+- Acurácia: **100%** 
 - Boas métricas de precisão e recall para ambas as classes
 
 ---
