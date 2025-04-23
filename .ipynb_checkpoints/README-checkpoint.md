@@ -55,13 +55,26 @@ O dataset utilizado está disponível publicamente no Kaggle:
 
 ---
 
-## ✅ Resultados
+## 🔍 Resultados dos Modelos
 
-- Modelo: **Logistic Regression**
-- Acurácia: **99%**
-- Modelo: **Random Forest**
-- Acurácia: **100%** 
-- Boas métricas de precisão e recall para ambas as classes
+### Logistic Regression
+
+- **Acurácia**: 98.72%
+- **Precisão / Revocação / F1**: veja mais no notebook `02_model.ipynb`
+
+### Random Forest
+
+- **Acurácia**: 99.73%
+- **Precisão / Revocação / F1**: veja mais no notebook `02_model.ipynb`
+
+---
+
+### 📈 Comparação entre os Modelos
+
+| Modelo              | Acurácia   |
+|---------------------|------------|
+| Logistic Regression | 98.72%     |
+| Random Forest       | 99.73%     |
 
 ---
 
