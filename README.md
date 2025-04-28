@@ -91,7 +91,8 @@ cd fake-news-detector-ml
 pip install -r requirements.txt
 ```
 
-3. Rodando o app<br/>Você pode rodar o app Streamlit de duas maneiras:
+3. Rodando o app<br/>
+Você pode rodar o app Streamlit de duas maneiras:
 
 ✅ Opção 1: Terminal normal<br/>Abra o terminal, navegue até a raiz do projeto e rode:
 ```bash
