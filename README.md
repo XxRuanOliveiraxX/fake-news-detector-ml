@@ -31,6 +31,7 @@ O dataset utilizado está disponível publicamente no Kaggle:
 - NLTK
 - Matplotlib, Seaborn
 - Jupyter Notebook
+- streamlit
 
 ---
 
