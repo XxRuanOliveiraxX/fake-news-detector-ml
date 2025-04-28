@@ -91,17 +91,14 @@ cd fake-news-detector-ml
 pip install -r requirements.txt
 ```
 
-3. Rodando o app
-Você pode rodar o app Streamlit de duas maneiras:
+3. Rodando o app<br/>Você pode rodar o app Streamlit de duas maneiras:
 
-✅ Opção 1: Terminal normal
-Abra o terminal, navegue até a raiz do projeto e rode:
+✅ Opção 1: Terminal normal<br/>Abra o terminal, navegue até a raiz do projeto e rode:
 ```bash
 streamlit run app/app.py
 ```
 
-✅ Opção 2: Terminal embutido do JupyterLab
-Se você está utilizando o JupyterLab, também pode rodar o app diretamente pelo terminal embutido:
+✅ Opção 2: Terminal embutido do JupyterLab<br/>Se você está utilizando o JupyterLab, também pode rodar o app diretamente pelo terminal embutido:
 
 1. No JupyterLab, clique em:
 ```bash
